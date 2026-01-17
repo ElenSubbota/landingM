@@ -1,0 +1,13 @@
+@use 'normalize';
+@use 'fonts';
+@use 'variables';
+@use 'utils';
+@use 'globals';
+
+p {
+    color: rgb(115, 209, 27);
+    font-size: 55px;
+    background-color: #aaccb2;
+    font-weight: 600;
+
+}
